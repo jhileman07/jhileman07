@@ -1,4 +1,5 @@
-### Hello, World; I'm John
+# Hello! 
+### My name is John, and I am a student studying computer science and mathematics at Northwestern University
 
 <!--
 **jhileman07/jhileman07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
